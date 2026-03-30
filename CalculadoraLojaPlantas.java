@@ -17,7 +17,7 @@ class Venda {
         System.out.println("Quantidade: " + quantidade);
         System.out.println("Valor da venda: R$ " + valorTotal);
         System.out.println("Desconto aplicado: R$ " + desconto);
-        System.out.println("-------------------------");
+        System.out.println("--------------------------");
     }
 }
 
